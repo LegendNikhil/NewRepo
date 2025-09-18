@@ -1,0 +1,9 @@
+// hello.js
+
+// A simple function
+function greet(name) {
+  return `Hello, ${name}! Welcome to Git testing.`;
+}
+
+// Call the function
+console.log(greet("Nikhil"));
